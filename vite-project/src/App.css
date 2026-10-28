@@ -1,0 +1,28 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: lightblue;
+  text-align: center;
+}
+
+.profile {
+  background-color: white;
+  width: 300px;
+  margin: 50px auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+h3 {
+  color: teal;
+}
+
+p {
+  color: #333;
+}
